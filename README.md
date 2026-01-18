@@ -202,6 +202,9 @@ customer-segmentation/
 │   └── __init__.py
 ├── data/
 │   └── processed/
+|   ├── customer_rfm.csv
+|   ├── customer_segments.csv
+|   ├── customer_business_segments.csv   
 ├── models/
 │   ├── rfm_scaler.pkl
 │   └── kmeans_model.pkl
